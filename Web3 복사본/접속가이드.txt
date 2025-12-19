@@ -1,0 +1,33 @@
+⚠️ 중요: 접속 방법 가이드
+
+서버는 정상 작동 중입니다!
+
+✅ 접속 방법:
+
+1. 브라우저를 엽니다 (Chrome, Safari, Firefox 등)
+
+2. 주소창(URL 바)을 클릭합니다
+
+3. 다음 중 하나를 입력:
+   - http://localhost:8000/test.html (테스트 페이지)
+   - http://localhost:8000/beotulgi.html (메인 프로젝트)
+   - http://127.0.0.1:8000/beotulgi.html (대체 주소)
+
+4. Enter 키를 누릅니다
+
+❌ 하지 말아야 할 것:
+- HTML 파일을 더블클릭
+- 파일을 브라우저로 드래그
+- File > Open으로 파일 열기
+
+✅ 확인 사항:
+- 주소창이 "http://"로 시작해야 합니다
+- "file://"로 시작하면 안 됩니다
+- 포트 번호 8000이 포함되어야 합니다
+
+🔧 문제 해결:
+1. 먼저 http://localhost:8000/test.html 접속 시도
+2. 테스트 페이지가 보이면 서버는 정상 작동 중
+3. 그 다음 http://localhost:8000/beotulgi.html 접속
+
+
